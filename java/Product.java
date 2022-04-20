@@ -3,7 +3,7 @@ import java.util.List;
 import lombok.Data;
 
 @Data
-public class Product { /////////////////////////////////////////////////
+public class Product { //////////////////////////////////////////////////
 
     private int id;
     private String title;
